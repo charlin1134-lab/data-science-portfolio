@@ -13,6 +13,12 @@ with attention to readable figures and the limits of the evidence.
 **Skills demonstrated:** Python · pandas · NumPy · matplotlib · scikit-learn ·
 data validation · classification · cross-validation · technical documentation
 
+## Project at a glance
+
+| Purpose | Main finding | Main limitation |
+| --- | --- | --- |
+| Compare petal and sepal features under identical validation splits | Petals: 95.3% versus sepals: 81.3% mean accuracy | Only 150 historical samples; no independent final test |
+
 ## Featured project
 ### Which Iris measurements help distinguish species?
 
@@ -53,5 +59,6 @@ on the clarity of the question, finding, and limitation.
 Fisher, R. (1936). *Iris* [Dataset]. UCI Machine Learning Repository.
 [Dataset and permission](https://archive.ics.uci.edu/dataset/53/iris)
 (CC BY 4.0). Analysis uses the scikit-learn bundled copy.
+
 
 

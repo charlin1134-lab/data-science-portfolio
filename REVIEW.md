@@ -21,3 +21,6 @@ figure so readers can see variation rather than only a single score.
 Pending. Ask a classmate to identify the purpose, main finding, and limitation.
 Record their actual comments, make one relevant change, and commit it with a
 descriptive message. Do not describe this simulation as real classmate feedback.
+
+## Additional improvement after simulated review
+Added a Project at a glance table before the figures so a reader can identify the purpose, main finding, and limitation without scrolling through the full project. This is an AI-informed improvement; real classmate feedback is still pending.
